@@ -1,0 +1,40 @@
+#logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -155px;
+  margin-left: -136px;
+}
+
+#searchbar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -30px;
+  margin-left: -290px;
+}
+
+#searchbar input {
+  width: 580px;
+  height: 35px;
+  box-shadow: 2px 2px 2px #f2f2f2;
+}
+
+#locator {
+  position: absolute;
+  width: 500px;
+  top: 50%;
+  left: 50%;
+  margin-top: 50px;
+  margin-left: -250px;
+}
+
+#buttons input {
+  color: #808080;
+  background-color: #f6f6f6;
+  width: 140px;
+  height: 35px;
+  border: none;
+  font-size: 13px;
+  font-weight: bold;
+}
